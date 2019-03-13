@@ -1,0 +1,24 @@
+h1{
+    color:rgb(203, 66, 244);
+    background-color: red;
+    text-align: center;
+    height:100px;
+    font-size: 60PX;
+    border-color:#0000FF;
+    border-style:solid;
+    
+
+}
+
+.粉綠色{
+    background-color: aquamarine;
+}
+.photo1{
+    width: 500px;
+    height: 500px;
+    background-image:url("https://p6sadq.dm.files.1drv.com/y4m6UdbqZuERFowWenHeNl8wCQHRiyby4JhYxuQYx50y3IXClZyjmYksfSyD48jxIDZgtukSu8iApdqWrUZfKCWu6aeoKcXkQG0x4HUY1DmeoDRvAYB_vpnN21BAn7-VDCKctp8TaeWpSeqSDB5Hps9wVswy0JxezWdVDYmVhFMC8ECtThbTrCG4yiRWGEcI_G3HcGt0v0FrIu4ykQBL_v9oQ/IMG_20190227_174818.jpg?psid=1");
+    background-size: cover;
+}
+h2{
+    font-family: 'Arimo', sans-serif;
+}
